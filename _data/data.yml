@@ -34,11 +34,9 @@ sidebar:
       - idiom: Greek
         level: Native
 
-    interests:
-      - item: Photography
-        link:
-     
-
+ interests:
+  - item: Photography
+   
 education:
     - degree: MSc in Integrative Neuroscience
       university: University of Edinburgh
