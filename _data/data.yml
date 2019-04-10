@@ -146,12 +146,16 @@ skills:
 
     toolset:
       - name: Data Analysis
+        level: 90%
 
       - name: WEKA Software
+        level: 90%
 
       - name: UML
+        level: 70%
 
-      - name: BPMN
+      - name: BPMN 
+        level: 70%
        
 
 footer: >
