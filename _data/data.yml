@@ -112,9 +112,8 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MSc Research Project 1
+        tagline: Understanding how experiencing traumatic events disturbs the HPA axis.
 
       - title: DevStudio
         link: "#"
