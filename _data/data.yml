@@ -35,25 +35,9 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Photography
         link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+     
 
 education:
     - degree: MSc in Integrative Neuroscience
@@ -99,10 +83,6 @@ experiences:
         I learned to use bioinformatics tools such as CLC workbench and open source translation platforms: tranSMART, i2b2. 
         I was trained in molecular applications: PCR, PCR-RFLP, gel electrophoresis, primer design, Sanger technique (sequencing). 
         I also had Hitachi TM3000 Electron Microscope and IX50 inverted microscope training.
-      
-
-          - Bullet point
-          - Bullet point
 
     - role: Laboratory Technician 
       time: 2015
@@ -110,9 +90,6 @@ experiences:
       details: |
        3 months unpaid work experience at the hospital's haematology laboratory. Had a variety of responsibilities, including running specific tests. 
         Worked under the supervision of a biologist who specialises in the genetics of M. Anaemia.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
