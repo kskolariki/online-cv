@@ -80,13 +80,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: External Researcher
-      time: 2016 - Present
+    - role:External Researcher
+      time:2016 - Present
       company: BiHeLab, Ionian University
-      details: |
-              
-          - Bullet point
-          - Bullet point
 
     - role: Internship
       time: 2016
