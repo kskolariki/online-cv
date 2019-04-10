@@ -38,6 +38,20 @@ sidebar:
       - item: Photography
    
 education:
+
+ - degree: MSc in Digital Application and Innovation
+      university: Ionian University
+      time: 2018 - 2019
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
     - degree: MSc in Integrative Neuroscience
       university: University of Edinburgh
       time: 2017 - 2018
