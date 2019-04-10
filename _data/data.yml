@@ -34,8 +34,8 @@ sidebar:
       - idiom: Greek
         level: Native
 
- interests:
-  - item: Photography
+    interests:
+      - item: Photography
    
 education:
     - degree: MSc in Integrative Neuroscience
