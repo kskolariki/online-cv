@@ -103,6 +103,9 @@ experiences:
 projects:
     title: Projects
     intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: MSc Research Project 1
@@ -117,6 +120,9 @@ projects:
 publications:
     title: Publications
     intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
 
     papers:
       - title: Multivariate data analysis and machine learning for prediction of MCI-to-AD conversion.
