@@ -83,45 +83,33 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: External Researcher
+      time: 2016 - Present
+      company: BiHeLab, Ionian University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
+              
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Internship
+      time: 2016
+      company: BiHeLab, Ionian University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+       I volunteered for 5 months in the bioinformatics laboratory. 
+        I learned to use bioinformatics tools such as CLC workbench and open source translation platforms: tranSMART, i2b2. 
+        I was trained in molecular applications: PCR, PCR-RFLP, gel electrophoresis, primer design, Sanger technique (sequencing). 
+        I also had Hitachi TM3000 Electron Microscope and IX50 inverted microscope training.
+      
 
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Laboratory Technician 
+      time: 2015
+      company:  Corfu General Hospital
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+       3 months unpaid work experience at the hospital's haematology laboratory. Had a variety of responsibilities, including running specific tests. 
+        Worked under the supervision of a biologist who specialises in the genetics of M. Anaemia.
 
           - Bullet point
           - Bullet point
